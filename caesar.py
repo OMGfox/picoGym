@@ -2,6 +2,7 @@ ALPHABET = "abcdefghijklmnopqrstuvwxyz"
 encrypted_phrase = "dspttjohuifsvcjdpoabrkttds"
 
 
+
 if __name__ == '__main__':
     offset = 0
     for _ in range(len(ALPHABET)):
